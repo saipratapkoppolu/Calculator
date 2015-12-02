@@ -82,7 +82,7 @@ class ViewController: UIViewController {
         currentOperation = Operation.Empty
         leftStr = ""
         rightStr = ""
-        runningNumber = ""
+        runningNumber = "0"
             }
 
     
